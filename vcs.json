@@ -1,11 +1,11 @@
 {
   "vcs": {
-    "min.supported.version" : "300",
+    "min.supported.version" : "30700",
       "blocking.messages" : {
             "en" : "This version of application is not supported anymore",
             "ru" : "Эта версия приложения больше не поддерживается"
             },
-      "latest.version" : "500",
+      "latest.version" : "50000",
       "info.messages" : {
             "en" : "Please download the latest version of Yandex.Mail from the AppStore",
             "ru" : "Загрузите пожалуйста свежую версию приложения из AppStore"
